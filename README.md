@@ -2,8 +2,10 @@
 
 ---
 ###
-  <img src="https://raw.githubusercontent.com/G-a-b-s/G-a-b-s/output/snake.svg" alt="Snake animation" />
-  
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/G-a-b-s/G-a-b-s/output/snake.svg" alt="Snake animation" />
+
 ###
 ---
 
