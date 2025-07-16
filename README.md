@@ -1,16 +1,12 @@
 # Olá, eu sou o Gabriel Rocha (gabs)
+<div align="left">
+ <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9xbW5xeW4zNnhwdDM4cjI0NTZlbDhyc2h3emNreTcxZjI5M29jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+</div>
 
----
-###
-<br clear="both">
+## 👩‍💻 Sobre mim 
 
-<img src="https://raw.githubusercontent.com/G-a-b-s/G-a-b-s/output/snake.svg" alt="Snake animation" />
-
-###
----
-
-## 👩‍💻 Sobre mim
 #### Me chamo Gabriel mas pode me chamar de gabs, sou apaixonado por criar soluções para problemas complexos e evitar problemas complexos para soluções fáceis.
+
 - 🖥️ Técnico em Informatica pelo Cotemig
 - 🎓 Graduando em Sistemas de Informação na PUC Minas
 - 📚 Estudando Flutter, Spring Boot e desenvolvimento fullstack
@@ -60,6 +56,9 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=G-a-b-s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
 <div align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=G-a-b-s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-a-b-s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
