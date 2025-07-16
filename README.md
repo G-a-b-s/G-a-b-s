@@ -1,15 +1,23 @@
-# Gabriel Rocha (gabs)
+# Olá, eu sou o Gabriel Rocha (gabs)
+
+---
+###
+  <img src="https://raw.githubusercontent.com/G-a-b-s/G-a-b-s/output/snake.svg" alt="Snake animation" />
+  
+###
+---
+
+## 👩‍💻 Sobre mim
+#### Me chamo Gabriel mas pode me chamar de gabs, sou apaixonado por criar soluções para problemas complexos e evitar problemas complexos para soluções fáceis.
+- 🖥️ Técnico em Informatica pelo Cotemig
+- 🎓 Graduando em Sistemas de Informação na PUC Minas
+- 📚 Estudando Flutter, Spring Boot e desenvolvimento fullstack
+- ⚡ No tempo livre gosto de jogar Magic e assistir series investigativas.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/G-a-b-s)
-
-## Sobre mim
-Me chamo Gabriel mas pode me chamar de gabs, sou apaixonado em criar soluções para todos tipos de problemas.
-
-Gosto de jogos e filmes e pincipalmente serie investigativa (TODAS).
-
-Jogador de Magic nas horas vagas.
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&color=D6C9F7)](https://g-a-b-s.github.io/portfolio-front/)
 
 # 💻 Tecnologias e linguagens
 <div align="left">
@@ -54,11 +62,3 @@ Jogador de Magic nas horas vagas.
    <img src="https://github-readme-stats.vercel.app/api?username=G-a-b-s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-a-b-s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/G-a-b-s/G-a-b-s/output/snake.svg" alt="Snake animation" />
-
-###
